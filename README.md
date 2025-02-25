@@ -8,7 +8,7 @@
 
 # MERN STACK COMPLETE E-COMMERCE SOFTWARE
 
-Hello 👋, I'm Samiur Rahman Mukul. At this repository i will be build a `Complete MERN Stack E-commerce Software`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect with it. Thanks
+Hello 👋, I'm Nilesh Haldar. At this repository i will be build a `Complete MERN Stack E-commerce Software`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect with it. Thanks
 
 <!-- contents of projects -->
 
@@ -20,11 +20,11 @@ Hello 👋, I'm Samiur Rahman Mukul. At this repository i will be build a `Compl
 
 <!-- my social media links -->
 
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
+[facebook-url]: https://www.faceook.com/nileshhaldar98
+[instagram-url]: https://www.instagram.com/nileshhaldar98
+[twitter-url]: https://www.twitter.com/nileshhaldar98
+[linkedin-url]: https://www.linkedin.com/in/nileshhaldar98
+[github-url]: https://www.github.com/nileshhaldar98
 
 <!-- shield icon links -->
 
